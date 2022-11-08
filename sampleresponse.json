@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "Tributes to Queen before England v SA cricket Test",
+      "description": "Tributes are paid to Her Majesty Queen Elizabeth II on day three of the third Test between England and South Africa at The Oval.",
+      "url": "https://www.bbc.co.uk/sport/cricket/62838463",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1189A/production/_126643817_englandteam.jpg",
+      "publishedAt": "2022-09-10T10:36:07Z",
+      "content": "Tributes were paid to Her Majesty Queen Elizabeth II on day three of the third Test between England and South Africa at The Oval.\r\nA minute's silence was observed before the national anthems, with Go… [+2135 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "Jonny Bairstow wins Cricket Writers' Club Bob Willis Trophy",
+      "description": "Jonny Bairstow wins the Bob Willis Trophy after being voted as England's player of the year by the Cricket Writers' Club.",
+      "url": "https://www.bbc.co.uk/sport/cricket/63134676",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/CCB7/production/_126970425_jonnybairstow.jpg",
+      "publishedAt": "2022-10-04T15:01:26Z",
+      "content": "Jonny Bairstow is currently the only batter in the world to score more than 1,000 runs in Tests this year\r\nJonny Bairstow has won the Bob Willis Trophy after being voted as England's player of the ye… [+1964 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "England in Pakistan: Moeen Ali prepares to lead tourists in landmark series",
+      "description": "England begin a historic tour of Pakistan after a 17-year absence and will fittingly be led by all-rounder Moeen Ali in the first T20.",
+      "url": "https://www.bbc.co.uk/sport/cricket/62948705",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/948A/production/_126762083_gettyimages-1424665697.jpg",
+      "publishedAt": "2022-09-20T05:08:29Z",
+      "content": "England face Pakistan in four T20s in Karachi and three in Lahore\r\n<table><tr><th>Pakistan v England, first T20</th></tr>\r\n<tr><td>Venue: National Stadium, Karachi Date: 20 October Time: 15:30 BST</t… [+5635 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Ali Martin at the Micky Stewart Oval",
+      "title": "Surrey beat Yorkshire to clinch County Championship Division One title in style",
+      "description": "<ul><li>Comfortable win over Yorkshire seals 21st title</li><li>Rory Burns leads Surrey to second title in five years</li></ul>As Rory Burns swatted a part-time lollipop from Yorkshire’s Jonny Tattersall to the rope, the Surrey captain was, briefly, the only …",
+      "url": "https://amp.theguardian.com/sport/2022/sep/22/surrey-clinch-county-championship-division-one-title-in-style",
+      "urlToImage": "https://i.guim.co.uk/img/media/56b1d5160de71ccaba7da60657245ecac6b99d18/0_116_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a52e8362af9b8c409de215a61ed13a4",
+      "publishedAt": "2022-09-22T17:40:22Z",
+      "content": "As Rory Burns swatted a part-time lollipop from Yorkshires Jonny Tattersall to the rope, the Surrey captain was, briefly, the only person inside the Micky Stewart Oval who didnt realise he had just s… [+5080 chars]"
+    }
+  ]
+}
